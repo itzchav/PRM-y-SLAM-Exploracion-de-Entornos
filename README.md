@@ -10,6 +10,7 @@ El diagrama para navegar una vez que se establece una ruta
 <p align="center">
     <img width=80% src="https://github.com/itzchav/PRM-y-SLAM-Exploracion-de-Entornos/blob/main/Diagrama_navegacion.png">
 </p>
+
 ## Diagrama PRM-SLAM: Modo exploración
 <p align="center">
     <img width=100% src="https://github.com/itzchav/PRM-y-SLAM-Exploracion-de-Entornos/blob/main/Diagrama_exploracion.png">
