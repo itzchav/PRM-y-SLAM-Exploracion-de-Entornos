@@ -8,10 +8,16 @@ Este trabajo presenta una integración de los algoritmos SLAM y PRM para la nave
 <p align="center">
     <img width=80% src="https://github.com/itzchav/PRM-y-SLAM-Exploracion-de-Entornos/blob/main/Diagrama_meta_definida.png">
 </p>
+
 ## Diagrama Navegación
 El diagrama para navegar una vez que se establece una ruta
 <p align="center">
     <img width=80% src="https://github.com/itzchav/PRM-y-SLAM-Exploracion-de-Entornos/blob/main/Diagrama_navegacion.png">
+</p>
+
+### Resultados
+<p align="center">
+    <img width=80% src="https://github.com/itzchav/PRM-y-SLAM-Exploracion-de-Entornos/blob/main/pruebas">
 </p>
 
 ## Diagrama PRM-SLAM: Modo exploración
