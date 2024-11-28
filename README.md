@@ -37,17 +37,11 @@ python3 rviz_binarizado.py
 ```
 
 Código para obtener la trayectoria con PRM:
--Sin obstáculos
 ```shell
 cd prm_slam_ws/codigos_offline 
 python3 Prm_code.py
 ```
 
--Con obstáculos
-```shell
-cd prm_slam_ws/codigos_offline 
-python3 Prm_code_obstaculos.py
-```
 
 Código para recorrer la trayectoria:
 ```shell
