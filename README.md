@@ -7,7 +7,7 @@ Este trabajo presenta una integración de los algoritmos SLAM y PRM para la nave
 ## Offline
 si se desea consultar información del [Entorno](https://github.com/itzchav/Entorno-Division-Estudios-Posgrado/tree/main)
 
-La ejecucion del entorno con Gmapping se realiza con los siguientes comandos:
+La ejecución del entorno con Gmapping se realiza con los siguientes comandos:
 
 ```shell
 cd ~/catkin_ws
@@ -37,13 +37,13 @@ python3 rviz_binarizado.py
 ```
 
 Código para obtener la trayectoria con PRM:
--Sin obtaculos
+-Sin obstáculos
 ```shell
 cd prm_slam_ws/codigos_offline 
 python3 Prm_code.py
 ```
 
--Con obstaculos
+-Con obstáculos
 ```shell
 cd prm_slam_ws/codigos_offline 
 python3 Prm_code_obstaculos.py
