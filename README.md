@@ -4,7 +4,7 @@ Navegación Autónoma en Línea: Integración de PRM y SLAM para la Exploración
 Este trabajo presenta una integración de los algoritmos SLAM y PRM para la navegación en entornos interiores y de grandes dimensiones. El sistema opera en dos modos principales: *Modo meta definida y *Modo exploración*.
 
 # PRM_SLAM_Control_cinemático
-## Offline
+
 Si se desea consultar información del [Entorno](https://github.com/itzchav/Entorno-Division-Estudios-Posgrado/tree/main)
 
 La ejecución del entorno con Gmapping se realiza con los siguientes comandos:
@@ -15,6 +15,43 @@ source ./devel/setup.bash
 export TURTLEBOT3_MODEL=burger
 roslaunch turtlebot3_gazebo plano_completo_gmapping_noetic.launch 
 ```
+## Online
+
+
+Código para ejecutar la navegación online:
+```shell
+cd ~/prm_slam_ws/
+source devel/setup.bash 
+rosrun prm_slam prm_slam_online.py
+```
+
+## Diagrama PRM-SLAM: Modo meta definida
+<p align="center">
+    <img width=50% src="https://github.com/itzchav/PRM-y-SLAM-Exploracion-de-Entornos/blob/main/Diagrama_meta_definida.png">
+</p>
+
+## Diagrama Navegación
+El diagrama para navegar una vez que se establece una ruta
+<p align="center">
+    <img width=50% src="https://github.com/itzchav/PRM-y-SLAM-Exploracion-de-Entornos/blob/main/Diagrama_navegacion.png">
+</p>
+
+### Resultados
+<p align="center">
+    <img width=60% src="https://github.com/itzchav/PRM-y-SLAM-Exploracion-de-Entornos/blob/main/Pruebas.png">
+</p>
+
+## Diagrama PRM-SLAM: Modo exploración
+<p align="center">
+    <img width=50% src="https://github.com/itzchav/PRM-y-SLAM-Exploracion-de-Entornos/blob/main/Diagrama_exploracion.png">
+</p>
+
+### Resultados
+<p align="center">
+    <img width=60% src="https
+
+## Offline
+Para la ejecución del modo offline:
 Teleoperación del robot:
 ```shell
 cd ~/catkin_ws
@@ -50,38 +87,5 @@ source devel/setup.bash
 rosrun prm_slam prm_slam_offline.py 
 ```
 
-## Online
-
-
-Código para ejecutar la navegación online:
-```shell
-cd ~/prm_slam_ws/
-source devel/setup.bash 
-rosrun prm_slam prm_slam_online.py
-```
-
-## Diagrama PRM-SLAM: Modo meta definida
-<p align="center">
-    <img width=50% src="https://github.com/itzchav/PRM-y-SLAM-Exploracion-de-Entornos/blob/main/Diagrama_meta_definida.png">
-</p>
-
-## Diagrama Navegación
-El diagrama para navegar una vez que se establece una ruta
-<p align="center">
-    <img width=50% src="https://github.com/itzchav/PRM-y-SLAM-Exploracion-de-Entornos/blob/main/Diagrama_navegacion.png">
-</p>
-
-### Resultados
-<p align="center">
-    <img width=60% src="https://github.com/itzchav/PRM-y-SLAM-Exploracion-de-Entornos/blob/main/Pruebas.png">
-</p>
-
-## Diagrama PRM-SLAM: Modo exploración
-<p align="center">
-    <img width=50% src="https://github.com/itzchav/PRM-y-SLAM-Exploracion-de-Entornos/blob/main/Diagrama_exploracion.png">
-</p>
-
-### Resultados
-<p align="center">
-    <img width=60% src="https://github.com/itzchav/PRM-y-SLAM-Exploracion-de-Entornos/blob/main/Pruebas_explore.png">
+://github.com/itzchav/PRM-y-SLAM-Exploracion-de-Entornos/blob/main/Pruebas_explore.png">
 </p>
