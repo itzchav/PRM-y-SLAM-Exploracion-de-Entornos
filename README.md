@@ -1,11 +1,11 @@
 # Prm-slam
 Navegación Autónoma en Línea: Integración de PRM y SLAM para la Exploración de Entornos Desconocidos
 
-Este trabajo presenta una integración de los algoritmos SLAM y PRM para la navegación en entornos interiores y de grandes dimensiones. El sistema opera en dos modos principales: \textit{Modo meta definida} y \textit{Modo exploración}.
+Este trabajo presenta una integración de los algoritmos SLAM y PRM para la navegación en entornos interiores y de grandes dimensiones. El sistema opera en dos modos principales: *Modo meta definida y *Modo exploración*.
 
 # PRM_SLAM_Control_cinemático
 ## Offline
-si se desea consultar información del [Entorno](https://github.com/itzchav/Entorno-Division-Estudios-Posgrado/tree/main)
+Si se desea consultar información del [Entorno](https://github.com/itzchav/Entorno-Division-Estudios-Posgrado/tree/main)
 
 La ejecución del entorno con Gmapping se realiza con los siguientes comandos:
 
