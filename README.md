@@ -5,7 +5,8 @@ Este trabajo presenta una integración de los algoritmos SLAM y PRM para la nave
 
 # PRM_SLAM_Control_cinemático
 ## Offline
-Gmapping:
+Ejecucion del entorno con Gmapping:
+si se desea consultar información del [Entorno](https://github.com/itzchav/Entorno-Division-Estudios-Posgrado/tree/main)
 
 ```shell
 cd ~/catkin_ws
