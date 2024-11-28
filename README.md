@@ -6,21 +6,26 @@ Este trabajo presenta una integración de los algoritmos SLAM y PRM para la nave
 
 ## Diagrama PRM-SLAM: Modo meta definida
 <p align="center">
-    <img width=80% src="https://github.com/itzchav/PRM-y-SLAM-Exploracion-de-Entornos/blob/main/Diagrama_meta_definida.png">
+    <img width=70% src="https://github.com/itzchav/PRM-y-SLAM-Exploracion-de-Entornos/blob/main/Diagrama_meta_definida.png">
 </p>
 
 ## Diagrama Navegación
 El diagrama para navegar una vez que se establece una ruta
 <p align="center">
-    <img width=80% src="https://github.com/itzchav/PRM-y-SLAM-Exploracion-de-Entornos/blob/main/Diagrama_navegacion.png">
+    <img width=70% src="https://github.com/itzchav/PRM-y-SLAM-Exploracion-de-Entornos/blob/main/Diagrama_navegacion.png">
 </p>
 
 ### Resultados
 <p align="center">
-    <img width=80% src="https://github.com/itzchav/PRM-y-SLAM-Exploracion-de-Entornos/blob/main/pruebas">
+    <img width=70% src="https://github.com/itzchav/PRM-y-SLAM-Exploracion-de-Entornos/blob/main/Pruebas.png">
 </p>
 
 ## Diagrama PRM-SLAM: Modo exploración
 <p align="center">
-    <img width=100% src="https://github.com/itzchav/PRM-y-SLAM-Exploracion-de-Entornos/blob/main/Diagrama_exploracion.png">
+    <img width=80% src="https://github.com/itzchav/PRM-y-SLAM-Exploracion-de-Entornos/blob/main/Diagrama_exploracion.png">
+</p>
+
+### Resultados
+<p align="center">
+    <img width=70% src="https://github.com/itzchav/PRM-y-SLAM-Exploracion-de-Entornos/blob/main/Pruebas_explore.png">
 </p>
