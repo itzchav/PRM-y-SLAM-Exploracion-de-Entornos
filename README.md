@@ -48,7 +48,7 @@ El diagrama para navegar una vez que se establece una ruta
 
 ### Pruebas PRM-SLAM: Modo exploración
 <p align="center">
-    <img width=60% src="https://github.com/itzchav/PRM-y-SLAM-Exploracion-de-Entornos/blob/main/Pruebas.png">
+    <img width=60% src="https://github.com/itzchav/PRM-y-SLAM-Exploracion-de-Entornos/blob/main/Pruebas_explore.png">
 </p>
 ## Offline
 Para la ejecución del modo offline:
