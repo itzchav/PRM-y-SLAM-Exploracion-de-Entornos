@@ -15,8 +15,8 @@ source ./devel/setup.bash
 export TURTLEBOT3_MODEL=burger
 roslaunch turtlebot3_gazebo plano_completo_gmapping_noetic.launch 
 ```
-## Online
 
+## Online
 
 Código para ejecutar la navegación online:
 ```shell
@@ -46,9 +46,6 @@ El diagrama para navegar una vez que se establece una ruta
     <img width=50% src="https://github.com/itzchav/PRM-y-SLAM-Exploracion-de-Entornos/blob/main/Diagrama_exploracion.png">
 </p>
 
-### Resultados
-<p align="center">
-    <img width=60% src="https
 
 ## Offline
 Para la ejecución del modo offline:
