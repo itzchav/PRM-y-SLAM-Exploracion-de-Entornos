@@ -36,7 +36,7 @@ El diagrama para navegar una vez que se establece una ruta
     <img width=50% src="https://github.com/itzchav/PRM-y-SLAM-Exploracion-de-Entornos/blob/main/Diagrama_navegacion.png">
 </p>
 
-### Resultados
+### Pruebas PRM-SLAM: Modo meta definida
 <p align="center">
     <img width=60% src="https://github.com/itzchav/PRM-y-SLAM-Exploracion-de-Entornos/blob/main/Pruebas.png">
 </p>
@@ -46,7 +46,10 @@ El diagrama para navegar una vez que se establece una ruta
     <img width=50% src="https://github.com/itzchav/PRM-y-SLAM-Exploracion-de-Entornos/blob/main/Diagrama_exploracion.png">
 </p>
 
-
+### Pruebas PRM-SLAM: Modo exploración
+<p align="center">
+    <img width=60% src="https://github.com/itzchav/PRM-y-SLAM-Exploracion-de-Entornos/blob/main/Pruebas.png">
+</p>
 ## Offline
 Para la ejecución del modo offline:
 Teleoperación del robot:
