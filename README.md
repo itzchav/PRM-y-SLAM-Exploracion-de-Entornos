@@ -18,12 +18,7 @@ roslaunch turtlebot3_gazebo plano_completo_gmapping_noetic.launch
 
 ## Online
 
-Código para ejecutar la navegación online:
-```shell
-cd ~/prm_slam_ws/
-source devel/setup.bash 
-rosrun prm_slam prm_slam_online.py
-```
+
 
 ## Diagrama PRM-SLAM: Modo meta definida
 <p align="center">
@@ -50,6 +45,21 @@ El diagrama para navegar una vez que se establece una ruta
 <p align="center">
     <img width=60% src="https://github.com/itzchav/PRM-y-SLAM-Exploracion-de-Entornos/blob/main/Pruebas_explore.png">
 </p>
+
+Para ejecutar PRM-SLAM: Modo meta definida:
+```shell
+cd ~/prm_slam_ws/
+source devel/setup.bash 
+rosrun prm_slam prm_slam.py
+```
+
+Para ejecutar PRM-SLAM: Modo exploración:
+```shell
+cd ~/prm_slam_ws/
+source devel/setup.bash 
+rosrun prm_slam prm_slam_explore_2..py
+```
+
 
 ## Offline
 Para la ejecución del modo offline:
