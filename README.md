@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=03RZZ6ntFaE
 ### Modo exploración
 https://www.youtube.com/watch?v=GfzVuH_KnKs
 
-# PRM_SLAM_Control_cinemático
+# Entorno División de Estudios de Posgrado de la UTM
 
 
 Si se desea consultar información del [Entorno](https://github.com/itzchav/Entorno-Division-Estudios-Posgrado/tree/main)
