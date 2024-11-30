@@ -107,5 +107,7 @@ cd ~/prm_slam_ws/
 source devel/setup.bash 
 rosrun prm_slam prm_slam_offline.py 
 ```
-
+<p align="center">
+    <img width=60% src="https://github.com/itzchav/PRM-y-SLAM-Exploracion-de-Entornos/blob/main/offline.png">
+</p>
 
