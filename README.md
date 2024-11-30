@@ -1,9 +1,17 @@
 # Prm-slam
 Navegación Autónoma en Línea: Integración de PRM y SLAM para la Exploración de Entornos Desconocidos
 
-Este trabajo presenta una integración de los algoritmos SLAM y PRM para la navegación en entornos interiores y de grandes dimensiones. El sistema opera en dos modos principales: *Modo meta definida y *Modo exploración*.
+Este trabajo presenta una integración de los algoritmos SLAM y PRM para la navegación en entornos interiores y de grandes dimensiones. El sistema opera en dos modos principales: *Modo meta definida* y *Modo exploración*.
+Los vídeos de las pruebas realizadas se puede encontrar en:
+
+### Modo meta definida
+https://www.youtube.com/watch?v=03RZZ6ntFaE
+
+### Modo exploración
+https://www.youtube.com/watch?v=GfzVuH_KnKs
 
 # PRM_SLAM_Control_cinemático
+
 
 Si se desea consultar información del [Entorno](https://github.com/itzchav/Entorno-Division-Estudios-Posgrado/tree/main)
 
@@ -16,14 +24,14 @@ export TURTLEBOT3_MODEL=burger
 roslaunch turtlebot3_gazebo plano_completo_gmapping_noetic.launch 
 ```
 
-## Online
-
+# PRM-SLAM: Modo meta definida
 
 
 ## Diagrama PRM-SLAM: Modo meta definida
 <p align="center">
     <img width=50% src="https://github.com/itzchav/PRM-y-SLAM-Exploracion-de-Entornos/blob/main/Diagrama_meta_definida.png">
 </p>
+
 
 ## Diagrama Navegación
 El diagrama para navegar una vez que se establece una ruta
@@ -35,6 +43,8 @@ El diagrama para navegar una vez que se establece una ruta
 <p align="center">
     <img width=60% src="https://github.com/itzchav/PRM-y-SLAM-Exploracion-de-Entornos/blob/main/Pruebas.png">
 </p>
+
+# PRM-SLAM: Modo exloración
 
 ## Diagrama PRM-SLAM: Modo exploración
 <p align="center">
