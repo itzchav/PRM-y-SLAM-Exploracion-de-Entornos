@@ -108,5 +108,4 @@ source devel/setup.bash
 rosrun prm_slam prm_slam_offline.py 
 ```
 
-://github.com/itzchav/PRM-y-SLAM-Exploracion-de-Entornos/blob/main/Pruebas_explore.png">
-</p>
+
