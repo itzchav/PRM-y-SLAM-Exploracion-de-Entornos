@@ -2,6 +2,7 @@
 Navegación Autónoma en Línea: Integración de PRM y SLAM para la Exploración de Entornos Desconocidos
 
 Este trabajo presenta una integración de los algoritmos SLAM y PRM para la navegación en entornos interiores y de grandes dimensiones. El sistema opera en dos modos principales: *Modo meta definida* y *Modo exploración*.
+
 Los vídeos de las pruebas realizadas se puede encontrar en:
 
 
