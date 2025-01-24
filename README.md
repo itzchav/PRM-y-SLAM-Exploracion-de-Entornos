@@ -4,7 +4,6 @@ Navegación Autónoma en Línea: Integración de PRM y SLAM para la Exploración
 Este trabajo presenta una integración de los algoritmos SLAM y PRM para la navegación en entornos interiores y de grandes dimensiones. El sistema opera en dos modos principales: *Modo meta definida* y *Modo exploración*.
 Los vídeos de las pruebas realizadas se puede encontrar en:
 
-# Online
 
 ### Modo meta definida
 https://www.youtube.com/watch?v=03RZZ6ntFaE
@@ -26,7 +25,7 @@ export TURTLEBOT3_MODEL=burger
 roslaunch turtlebot3_gazebo plano_completo_gmapping_noetic.launch 
 ```
 
-# PRM-SLAM: Modo meta definida
+# Online
 
 
 ##  PRM-SLAM: Modo meta definida
