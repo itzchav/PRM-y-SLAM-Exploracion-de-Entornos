@@ -9,16 +9,11 @@ Este trabajo presenta una integración de los algoritmos SLAM y PRM para la nave
   - Modo meta definida
      https://www.youtube.com/watch?v=03RZZ6ntFaE
     
-      0:00 Presentación de PRM-SLAM: Modo Meta definida, mostrando el funcionamiento del algoritmo.
-
-      2:33 Navegación hacia un mismo punto objetivo considerando diferentes sistemas de coordenadas globales.
-
-      12:34 Navegación con diferentes puntos de inicio y final hacia la misma meta.
-
-      15:55 Navegación asistida, empleando el mapa previamente generado para asignar nuevas metas.
-
-      16:50 Implementación del método en el Turtlebot 2 real.
-
+      - **0:00** Presentación de PRM-SLAM: Modo Meta definida, mostrando el funcionamiento del algoritmo.
+      - **2:33** Navegación hacia un mismo punto objetivo considerando diferentes sistemas de coordenadas globales.
+      - **12:34** Navegación con diferentes puntos de inicio y final hacia la misma meta.
+      - **15:55** Navegación asistida, empleando el mapa previamente generado para asignar nuevas metas.
+      - **16:50** Implementación del método en el Turtlebot 2 real.
   -  Modo exploración
      https://www.youtube.com/watch?v=GfzVuH_KnKs
 -  Diagramas
