@@ -16,6 +16,11 @@ Este trabajo presenta una integración de los algoritmos SLAM y PRM para la nave
       - **16:50** Implementación del método en el Turtlebot 2 real.
   -  Modo exploración
      https://www.youtube.com/watch?v=GfzVuH_KnKs
+
+     - **00:00** Presentación del modo PRM-SLAM: Modo Exploración, mostrando el funcionamiento del algoritmo.
+     - **04:10** Navegación con diferentes números de submetas y un punto de inicio distinto.
+     - **09:14** Navegación con cambios en el entorno.
+     - **10:22** Comparación entre el código automático de ROS, que se basa en evitar obstáculos y moverse en un entorno, y el PRM-SLAM: Modo 
 -  Diagramas
 -  Pseudocódigos
 
