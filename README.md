@@ -23,6 +23,7 @@ Este trabajo presenta una integración de los algoritmos SLAM y PRM para la nave
      - **10:22** Comparación entre el código automático de ROS, que se basa en evitar obstáculos y moverse en un entorno, y el PRM-SLAM: Modo 
 -  Diagramas
 -  Pseudocódigos
+-  Códigos (Workspace en ROS)
 
 
 
