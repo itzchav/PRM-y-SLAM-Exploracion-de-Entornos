@@ -8,7 +8,7 @@ Este trabajo presenta una integración de los algoritmos SLAM y PRM para la nave
 - Los vídeos de las pruebas realizadas se puede encontrar en:
 
 - ### Modo meta definida
- - - https://www.youtube.com/watch?v=03RZZ6ntFaE
+  - https://www.youtube.com/watch?v=03RZZ6ntFaE
 
 ### Modo exploración
 https://www.youtube.com/watch?v=GfzVuH_KnKs
