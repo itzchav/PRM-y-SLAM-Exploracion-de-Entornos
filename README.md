@@ -25,7 +25,7 @@ Este trabajo presenta una integración de los algoritmos SLAM y PRM para la nave
 -  Pseudocódigos
 -  Códigos (Workspace en ROS)
 -  PRM_SLAM Implementado
-  - [ https://www.youtube.com/watch?v=03RZZ6ntFaE](https://github.com/itzchav/PRM_SLAM_MATLAB)
+   [ https://www.youtube.com/watch?v=03RZZ6ntFaE](https://github.com/itzchav/PRM_SLAM_MATLAB)
 
 
 
